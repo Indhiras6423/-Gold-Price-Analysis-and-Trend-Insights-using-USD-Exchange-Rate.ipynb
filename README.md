@@ -161,7 +161,7 @@ The Surge phase (650 days) confirms gold remains in an **active bull market**, w
 |-------|---------|
 | 📂 Source | Yahoo Finance |
 | 📅 Period | Jan 2020 – Apr 2026 |
-| 📊 Records | 1,582 rows |
+| 📊 Records | 1,510 rows |
 | 📋 Columns | Date, Gold_Close, High_Gold, Low_Gold, USD_Close, Volume, Market_Phase, Volatility_Level, Price_Trend, and more |
 
 ---
