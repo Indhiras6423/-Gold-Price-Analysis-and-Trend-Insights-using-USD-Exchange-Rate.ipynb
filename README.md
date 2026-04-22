@@ -8,10 +8,10 @@
 ## 📸 Dashboard Preview
 
 ### 🖥️ Page 1 — Overview Dashboard
-![Page2]([Screenshot 2026-04-22 005727.png](https://github.com/Indhiras6423/-Gold-Price-Analysis-and-Trend-Insights-using-USD-Exchange-Rate.ipynb/blob/main/Screenshot%202026-04-22%20005727.png))
+![Page2](https://github.com/Indhiras6423/-Gold-Price-Analysis-and-Trend-Insights-using-USD-Exchange-Rate.ipynb/blob/main/Screenshot%202026-04-22%20005727.png)
 
 ### 🔬 Page 2 — Deep Analysis
-![Page1]([Screenshot 2026-04-22 005708.png](https://github.com/Indhiras6423/-Gold-Price-Analysis-and-Trend-Insights-using-USD-Exchange-Rate.ipynb/blob/main/Screenshot%202026-04-22%20005708.png))
+![Page1](https://github.com/Indhiras6423/-Gold-Price-Analysis-and-Trend-Insights-using-USD-Exchange-Rate.ipynb/blob/main/Screenshot%202026-04-22%20005708.png)
 
 ---
 
