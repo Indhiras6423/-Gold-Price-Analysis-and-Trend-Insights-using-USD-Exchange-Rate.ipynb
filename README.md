@@ -166,10 +166,5 @@ The Surge phase (650 days) confirms gold remains in an **active bull market**, w
 
 ---
 
-## 📬 Connect
-
-> ⭐ **If you found this project useful, please star the repository!**
-
----
 
 *🥇 Gold Price Analysis | Yahoo Finance (2020–2026) | Power BI Dashboard Project*
