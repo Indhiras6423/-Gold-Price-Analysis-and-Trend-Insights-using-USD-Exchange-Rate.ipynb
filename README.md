@@ -11,7 +11,7 @@
 ![Gold Price Analysis Dashboard - Page 1](Screenshot_2026-04-22_005708.png)
 
 ### 🔬 Page 2 — Deep Analysis
-![Gold Price Analysis Dashboard - Page 2](Screenshot 2026-04-22 005708.png)
+![Gold Price Analysis Dashboard - Page 2]([Screenshot 2026-04-22 005708.png](https://github.com/Indhiras6423/-Gold-Price-Analysis-and-Trend-Insights-using-USD-Exchange-Rate.ipynb/blob/1078be112be85c42164a4c5a4007a3300a34c455/Screenshot%202026-04-22%20005708.png))
 
 ---
 
