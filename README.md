@@ -8,10 +8,10 @@
 ## 📸 Dashboard Preview
 
 ### 🖥️ Page 1 — Overview Dashboard
-!(Screenshot 2026-04-22 005708.png)
+![Page2](Screenshot 2026-04-22 005727.png)
 
 ### 🔬 Page 2 — Deep Analysis
-([Screenshot 2026-04-22 005708.png](https://github.com/Indhiras6423/-Gold-Price-Analysis-and-Trend-Insights-using-USD-Exchange-Rate.ipynb/blob/1078be112be85c42164a4c5a4007a3300a34c455/Screenshot%202026-04-22%20005708.png))
+![Page1](Screenshot 2026-04-22 005708.png)
 
 ---
 
